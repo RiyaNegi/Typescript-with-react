@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.form-card{
+  margin: auto;
+  border:1px solid gray;
+  background-color: bisque;
+  height: fit-content;
+  width: fit-content;
+  padding: 15px;
+}
+
+.first{
+  display: flex;
+}
+.input-div{
+
+}
