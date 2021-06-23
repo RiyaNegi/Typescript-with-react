@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
-import Form from './Form';
-import List from "./List"
+import Form from './components/Form';
+import List from "./components/List"
 
 export interface IState {
   form: {
@@ -27,8 +27,11 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My Watch List</h1>
-      <List form={form} />
+      <h1 className="title">My Watch List</h1>
+      <div className="form-card">
+        <List form={form} />
+        <Form form={form} setForm={setForm} />
+      </div>
     </div>
   );
 }
