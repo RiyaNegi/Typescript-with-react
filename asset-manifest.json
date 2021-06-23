@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Typescript-with-react/static/css/main.592ffac1.chunk.css",
+    "main.js": "/Typescript-with-react/static/js/main.8145d2bf.chunk.js",
+    "main.js.map": "/Typescript-with-react/static/js/main.8145d2bf.chunk.js.map",
+    "runtime-main.js": "/Typescript-with-react/static/js/runtime-main.be3b5ad8.js",
+    "runtime-main.js.map": "/Typescript-with-react/static/js/runtime-main.be3b5ad8.js.map",
+    "static/js/2.47dbb947.chunk.js": "/Typescript-with-react/static/js/2.47dbb947.chunk.js",
+    "static/js/2.47dbb947.chunk.js.map": "/Typescript-with-react/static/js/2.47dbb947.chunk.js.map",
+    "static/js/3.2058f18c.chunk.js": "/Typescript-with-react/static/js/3.2058f18c.chunk.js",
+    "static/js/3.2058f18c.chunk.js.map": "/Typescript-with-react/static/js/3.2058f18c.chunk.js.map",
+    "index.html": "/Typescript-with-react/index.html",
+    "static/css/main.592ffac1.chunk.css.map": "/Typescript-with-react/static/css/main.592ffac1.chunk.css.map",
+    "static/js/2.47dbb947.chunk.js.LICENSE.txt": "/Typescript-with-react/static/js/2.47dbb947.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Typescript-with-react/static/media/image.178fc291.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be3b5ad8.js",
+    "static/js/2.47dbb947.chunk.js",
+    "static/css/main.592ffac1.chunk.css",
+    "static/js/main.8145d2bf.chunk.js"
+  ]
+}
